@@ -81,7 +81,7 @@ O **Random Forest** apresentou o melhor desempenho entre os modelos avaliados e 
 
 ## Vídeo de Apresentação
 
-> _[Inserir aqui o link do vídeo explicativo do grupo]_
+> [clique aqui para ver o vídeo](https://youtu.be/nj35-UrzxAE)
 
 ## Uso de Ferramentas de Inteligência Artificial
 
